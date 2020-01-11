@@ -2,7 +2,7 @@
 A simple tradingview alert listener for sending message to webhook
 
 
-(https://github.com/xiaoyual666/tvAlertWebhook/blob/master/src/pic.png)
+(https://github.com/xiaoyual666/tvAlertWebhook/blob/master/src/icons/pic.png)
 
 ## Usage
 
