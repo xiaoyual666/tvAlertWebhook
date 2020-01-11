@@ -19,6 +19,8 @@ Watch for modifications then run `npm run build`.
 
 ### `npm run watch:dev`
 
+Watch for modifications then run npm run build:dev.
+
 ### `npm run build-zip`
 
 Build a zip file following this format `<name>-v<version>.zip`, by reading `name` and `version` from `manifest.json` file.
